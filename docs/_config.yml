@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: 项目文档模板
 description: 一个标准的项目文档模板，包含开发规范、API文档、数据库设计等
 show_downloads: true
-google_analytics:
+google_analytics: 
